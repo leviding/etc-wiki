@@ -1,15 +1,4 @@
-# Chinese Copywriting Guidelines
-[![devDependency Status](https://david-dm.org/mzlogin/chinese-copywriting-guidelines/dev-status.svg)](https://david-dm.org/mzlogin/chinese-copywriting-guidelines#info=devDependencies)
-
-Chinese copywriting guidelines for better written communication.
-
-Other languages:
-
-- [English](README.en.md)
-- [Chinese Traditional](https://github.com/sparanoid/chinese-copywriting-guidelines)
-- [Chinese Simplified](README.md)
-
------
+# 译文排版规则指北.en
 
 ## Table of Contents
 
